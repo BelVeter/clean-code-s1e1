@@ -21,9 +21,11 @@
 }
 
 @media (max-width:768px) {
+
   .top-container {
     text-align: center;
   }
+  
 }
 
 .main-container {
