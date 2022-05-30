@@ -25,7 +25,7 @@
   .top-container {
     text-align: center;
   }
-  
+
 }
 
 .main-container {
@@ -154,7 +154,8 @@
 
 /* Completed */
 .list#completed-tasks .label {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through;
+  text-decoration-color: #888;
 }
 
 /* Edit Task */
